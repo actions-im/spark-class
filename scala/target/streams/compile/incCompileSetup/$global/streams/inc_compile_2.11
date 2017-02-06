@@ -1,0 +1,460 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+4 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+35 items
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench$$anonfun$6.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench$$anonfun$7.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench$.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench$delayedInit$body.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/CSVWithPipes$$anon$1.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/CSVWithPipes$$anonfun$data$1.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/CSVWithPipes.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/ColumnarDataSource$FieldLookup.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/ColumnarDataSource$class.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/ColumnarDataSource.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MovieFeatures$.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MovieFeatures.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MovieFeaturesSource$$anonfun$1.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MovieFeaturesSource.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$3$$anonfun$apply$6.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$3.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5$$anonfun$apply$2.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5$$anonfun$apply$3.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$$anonfun$profitPerKeyword$1$$anonfun$apply$5.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$$anonfun$profitPerKeyword$1.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$$anonfun$profitPerKeyword$2$$anonfun$apply$1.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$$anonfun$profitPerKeyword$2.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Partitioning$$anonfun$2$$anonfun$apply$4.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Partitioning$$anonfun$2.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Partitioning$.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Partitioning.class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Record.class
+binary dependencies:
+4 items
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/.ivy2/cache/com.storm-enroute/scalameter_2.11/jars/scalameter_2.11-0.8.2.jar
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/.ivy2/cache/org.apache.commons/commons-csv/jars/commons-csv-1.1.jar
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /Users/szelvenskiy/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+35 items
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Bench
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Bench$
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Bench$$anonfun$6
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Bench$$anonfun$7
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Bench$delayedInit$body
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.CSVWithPipes
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.CSVWithPipes$$anon$1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.CSVWithPipes$$anonfun$data$1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.ColumnarDataSource
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.ColumnarDataSource$FieldLookup
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.ColumnarDataSource$class
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MovieFeatures
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MovieFeatures$
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MovieFeaturesSource
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MovieFeaturesSource$$anonfun$1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel$
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel$$anonfun$3
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel$$anonfun$3$$anonfun$apply$6
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel$$anonfun$4
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5$$anonfun$apply$2
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5$$anonfun$apply$3
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsSequential
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsSequential$
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsSequential$$anonfun$profitPerKeyword$1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsSequential$$anonfun$profitPerKeyword$1$$anonfun$apply$5
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsSequential$$anonfun$profitPerKeyword$2
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.MoviesAnalyticsSequential$$anonfun$profitPerKeyword$2$$anonfun$apply$1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Partitioning
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Partitioning$
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Partitioning$$anonfun$2
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Partitioning$$anonfun$2$$anonfun$apply$4
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn.Record
+used names:
+246 items
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> $anon
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> $conforms
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> &&
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> +
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ++
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> -
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ->
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> /
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> <:<
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> <byname>
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> <init>
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> <repeated...>
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> <repeated>
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ==
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ?0
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> A
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> A1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> AbstractFunction7
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Any
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> AnyRef
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> App
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Array
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ArrowAssoc
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> AsScala
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Await
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Awaitable
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> B
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> B1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Bench
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Boolean
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> BufferedSource
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> BufferedWriter
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> C
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> CSVFormat
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> CSVParser
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> CSVRecord
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> CSVWithPipes
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> CanBuildFrom
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Char
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Charset
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Codec
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Coll
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ColumnarDataSource
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Decorators
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Double
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Duration
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> DurationInt
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ExecutionContext
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ExecutionContextExecutor
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> FieldLookup
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> File
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> FileAttribute
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> FileWriter
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Files
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> FiniteDuration
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ForkJoinWorkerThread
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Function1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Function2
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Future
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> GenTraversableOnce
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> GroupedIterator
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Implicits
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Inclusive
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> IndexOutOfBoundsException
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> IndexedSeq
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Int
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Iterable
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Iterator
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> JavaConversions
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> JavaConverters
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> List
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Long
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> M
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Map
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> MatchError
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> MovieFeatures
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> MovieFeaturesSource
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> MoviesAnalyticsParallel
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> MoviesAnalyticsSequential
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> None
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Nothing
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Object
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Partitioning
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Path
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Paths
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Predef
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Product
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> RFC4180
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Range
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Record
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> RichInt
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> S
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ScalaRunTime
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Seq
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Serializable
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Set
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Some
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Source
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Statics
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> String
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> StringContext
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> StringOps
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> System
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T0
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T2
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T3
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T4
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T5
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T6
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> T7
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> That
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> TraversableOnce
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Tuple2
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Tuple7
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> U
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Unit
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> WrappedArray
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> Writer
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> X
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> _1
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> _2
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> _toString
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> actors
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> agg
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> anyHash
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> apache
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> api
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> apply
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> asInstanceOf
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> asScala
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> asScalaIterator
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> asScalaIteratorConverter
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> augmentString
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> beforePar
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> beforeSeq
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> budget
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> buildCSVRecordColumn
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> bw
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> c
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> canBuildFrom
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> charset
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> close
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> collection
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> commons
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> concurrent
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> createDirectory
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> csv
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> data
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> dataIter
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> defaultCharset
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> director
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> doubleHash
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> duration
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> eq
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> fallbackSystemCodec
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> field
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> fieldIndex
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> fieldName
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> file
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> fileName
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> finalizeHash
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> flatMap
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> foldLeft
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> foreach
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> fromFile
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> genres
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> get
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> getDouble
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> getInt
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> getLines
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> getOrElse
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> getSeq
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> getString
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> global
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> gross
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> grouped
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> header
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> headerIndex
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> headerLine
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> immutable
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> index
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> input
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> intWrapper
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> io
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> isInstanceOf
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> iterableAsScalaIterable
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> iterator
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> java
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> job
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> keySet
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> keyword
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> keywords
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> lang
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> learn
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> left
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> map
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> mix
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> movieData
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> nanoTime
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ne
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> next
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> nio
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> nonEmpty
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> org
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> package
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> parTime
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> parse
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> part
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> partitionId
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> parts
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> println
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> profit
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> profitPerKeyword
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> rawSource
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> reduce
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> res
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> result
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> results
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> right
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> row
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> rows
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> runtime
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> s
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> scala
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> scalameter
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> second
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> seqTime
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> sequence
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> split
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> strValue
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> to
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> toDouble
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> toInt
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> toList
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> toMap
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> toString
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> typedProductIterator
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> updated
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> util
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> wrapRefArray
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> write
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> year
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> zipWithIndex
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> ||
+product stamps:
+35 items
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench$$anonfun$6.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench$$anonfun$7.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench$.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench$delayedInit$body.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Bench.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/CSVWithPipes$$anon$1.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/CSVWithPipes$$anonfun$data$1.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/CSVWithPipes.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/ColumnarDataSource$FieldLookup.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/ColumnarDataSource$class.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/ColumnarDataSource.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MovieFeatures$.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MovieFeatures.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MovieFeaturesSource$$anonfun$1.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MovieFeaturesSource.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$3$$anonfun$apply$6.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$3.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5$$anonfun$apply$2.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5$$anonfun$apply$3.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7$$anonfun$5.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4$$anonfun$apply$7.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$$anonfun$4.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel$.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsParallel.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$$anonfun$profitPerKeyword$1$$anonfun$apply$5.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$$anonfun$profitPerKeyword$1.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$$anonfun$profitPerKeyword$2$$anonfun$apply$1.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$$anonfun$profitPerKeyword$2.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential$.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/MoviesAnalyticsSequential.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Partitioning$$anonfun$2$$anonfun$apply$4.class -> lastModified(1486342602000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Partitioning$$anonfun$2.class -> lastModified(1486342602000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Partitioning$.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Partitioning.class -> lastModified(1486342601000)
+/Users/szelvenskiy/spark-class/scala/target/scala-2.11/classes/learn/Record.class -> lastModified(1486342602000)
+source stamps:
+1 items
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> hash(df560fc070709061770602f5a7adc508a71634d3)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/szelvenskiy/.ivy2/cache/com.storm-enroute/scalameter_2.11/jars/scalameter_2.11-0.8.2.jar -> lastModified(1478797487000)
+/Users/szelvenskiy/.ivy2/cache/org.apache.commons/commons-csv/jars/commons-csv-1.1.jar -> lastModified(1416170926000)
+/Users/szelvenskiy/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/szelvenskiy/.ivy2/cache/com.storm-enroute/scalameter_2.11/jars/scalameter_2.11-0.8.2.jar -> org.scalameter.api$
+/Users/szelvenskiy/.ivy2/cache/org.apache.commons/commons-csv/jars/commons-csv-1.1.jar -> org.apache.commons.csv.CSVParser
+/Users/szelvenskiy/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.App
+internal apis:
+1 items
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHibRFgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBlCvDhdAALRmllbGRMb29rdXB1cQB+AAkAAABIc3EAfgAL9m3ES3QABm5vdGlmeXNxAH4AC8ZWyZh0ABJDb2x1bW5hckRhdGFTb3VyY2VzcQB+AAugINH9dAAEd2FpdHNxAH4ACzw4gtp0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC/UfBVd0AA0kYXNJbnN0YW5jZU9mc3EAfgALPpvdnnQADmNvcHkkZGVmYXVsdCQ1c3EAfgAL4T4AEHQADHByb2R1Y3RBcml0eXNxAH4AC90I9Mt0AAZlcXVhbHNzcQB+AAtp8KVVdAAGcHJvZml0c3EAfgALuINYJXQADGFzSW5zdGFuY2VPZnNxAH4ACy8AhKN0AA5leGVjdXRpb25TdGFydHNxAH4ACxmphvl0AAlnZXREb3VibGVzcQB+AAsYyzJbdAAEZGF0YXNxAH4AC3ecPpF0AAZyZXN1bHRzcQB+AAtagnKpdAAFQmVuY2hzcQB+AAtlqWJPdAAJZ2V0U3RyaW5nc3EAfgALAxC4VHQADHN5bmNocm9uaXplZHNxAH4ACz984qZ0ABBwcm9maXRQZXJLZXl3b3Jkc3EAfgALZBkSqnQADSRpc0luc3RhbmNlT2ZzcQB+AAvyD9oodAATTW92aWVGZWF0dXJlc1NvdXJjZXNxAH4AC2PrUZR0AAR5ZWFyc3EAfgALCg11AHQACWJlZm9yZVBhcnNxAH4AC37Ktnx0AAVncm9zc3NxAH4AC2PQ/ld0AAhjYW5FcXVhbHNxAH4AC3x+dQZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4AC6K1eqh0AARtYWluc3EAfgAL9PxCG3QAC2hlYWRlckluZGV4c3EAfgALuz9NFnQADXByb2R1Y3RQcmVmaXhzcQB+AAsEJzqBdAAJbm90aWZ5QWxsc3EAfgALs96oenQADGlzSW5zdGFuY2VPZnNxAH4AC5V1ZUx0ABdNb3ZpZXNBbmFseXRpY3NQYXJhbGxlbHNxAH4AC70QCMR0ABlNb3ZpZXNBbmFseXRpY3NTZXF1ZW50aWFsc3EAfgAL3tSVHHQAB3BhclRpbWVzcQB+AAugpc11dAAGPGluaXQ+c3EAfgALPK77xnQAAj09c3EAfgALNrfnKHQADU1vdmllRmVhdHVyZXNzcQB+AAu/HgH1dAAGUmVjb3Jkc3EAfgALh7G5pXQABWNsb25lc3EAfgALIO43FXQACGRpcmVjdG9yc3EAfgALq9SjHnQABmdldEludHNxAH4AC6JSQbR0AAliZWZvcmVTZXFzcQB+AAs6HO2LdAAOY29weSRkZWZhdWx0JDdzcQB+AAuQO92pdAAGJGluaXQkc3EAfgALti7eCnQABmdlbnJlc3NxAH4AC1ig1q50AAdzZXFUaW1lc3EAfgALq3hXCXQABmFjdG9yc3NxAH4ACyX78Mp0AAZidWRnZXRzcQB+AAvcOnhrdAAIa2V5d29yZHNzcQB+AAuGvf8wdAAOY29weSRkZWZhdWx0JDNzcQB+AAvNv5l1dAAEY29weXNxAH4AC7UtmUZ0AAZoZWFkZXJzcQB+AAtdbQqFdAAIdG9TdHJpbmdzcQB+AAuJQmAwdAAMUGFydGl0aW9uaW5nc3EAfgALzW2o+3QABGFyZ3NzcQB+AAtgXKowdAAGZ2V0U2Vxc3EAfgALwN6HP3QAAiE9c3EAfgALChh9NXQAA2dldHNxAH4AC5jFriV0AAhkYXRhSXRlcnNxAH4ACy6Eym90AAhnZXRDbGFzc3NxAH4AC4DkUJp0AA5jb3B5JGRlZmF1bHQkMXNxAH4ACyD2NP90AAdoZWFkZXJzc3EAfgAL+rwYinQADmNvcHkkZGVmYXVsdCQ2c3EAfgALPXN2x3QAAm5lc3EAfgALSgDZHnQAAmVxc3EAfgALHYLzOXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC7lDnVV0AAxDU1ZXaXRoUGlwZXNzcQB+AAsFyUt0dAALZGVsYXllZEluaXRzcQB+AAtw9QGVdAACIyNzcQB+AAutsgLDdAAIZmluYWxpemVzcQB+AAtd7lNmdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtCJiLZdAAIaGFzaENvZGVzcQB+AAt1LTuEdAAFcGFydHNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAJc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAMbGVhcm4uUmVjb3JkdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AMFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AqUwACWluaGVyaXRlZHEAfgCpTAAHcGFyZW50c3EAfgCpeHEAfgDGc3EAfgDBdXEAfgCkAAAAAHNxAH4AwXVxAH4ApAAAAABzcQB+AMF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AMV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW5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
+external apis:
+0 items
+source infos:
+1 items
+/Users/szelvenskiy/spark-class/scala/src/main/scala-2.11/learn/SequentialRead.scala -> 
+AAAAAAAAAAA=
+compilations:
+26 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgs1ygF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgs+wA51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgs/hTR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgs/8r91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgtwFEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWgt27IV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWguH9451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWguJaOh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWguZZWZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWg/yBwd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWg/4yxZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWg/6bJJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWg/8mlx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhAdcyh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhCVmaB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhCcMg51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDNHQF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDNy811cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDSF/x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDUt/J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDfXTV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDf3bF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDg0D11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDi9wR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDjiIl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhDsI7d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9zemVsdmVuc2tpeS9zcGFyay1jbGFzcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
